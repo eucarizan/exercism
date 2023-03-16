@@ -106,6 +106,7 @@ public abstract class ReflectionProxy {
      * @param <T> The result type we expect the method to be
      * @return The value returned by the method
      */
+    @SuppressWarnings("unchecked")
     protected  <T> T invokeMethod(String methodName, Class<?>[] parameterTypes, Object... parameterValues) {
         if (target == null) {
             return null;
@@ -390,6 +391,7 @@ public abstract class ReflectionProxy {
      * @param <T> The type we are expecting it to be
      * @return The value of the property (if it exists)
      */
+    @SuppressWarnings("unchecked")
     protected <T> T getPropertyValue(String propertyName) {
         if (target == null || !hasProperty(propertyName)) {
             return null;
