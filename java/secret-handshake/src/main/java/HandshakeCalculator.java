@@ -48,22 +48,22 @@ class HandshakeCalculator {
         return actions;
     }
 
-    private void simpleSolution(int number) {
-        if ((number & 1) == 1) {
-            actions.add(Signal.WINK);
-        }
-        if ((number & 2) == 2) {
-            actions.add(Signal.DOUBLE_BLINK);
-        }
-        if ((number & 4) == 4) {
-            actions.add(Signal.CLOSE_YOUR_EYES);
-        }
-        if ((number & 8) == 8) {
-            actions.add(Signal.JUMP);
-        }
-        if ((number & 16) == 16) {
-            Collections.reverse(actions);
-        }
-    }
+    // private void simpleSolution(int number) {
+    //     if ((number & 1) == 1) {
+    //         actions.add(Signal.WINK);
+    //     }
+    //     if ((number & 2) == 2) {
+    //         actions.add(Signal.DOUBLE_BLINK);
+    //     }
+    //     if ((number & 4) == 4) {
+    //         actions.add(Signal.CLOSE_YOUR_EYES);
+    //     }
+    //     if ((number & 8) == 8) {
+    //         actions.add(Signal.JUMP);
+    //     }
+    //     if ((number & 16) == 16) {
+    //         Collections.reverse(actions);
+    //     }
+    // }
 
 }
