@@ -3,6 +3,9 @@
 Get better at programming through fun, rewarding coding exercises that test your understanding of concepts with Exercism.
 
 - [Exercism - Java Track](#exercism---java-track)
+  - [Calendar](#calendar)
+    - [March](#march)
+    - [April](#april)
   - [Days](#days)
     - [001](#001)
     - [002](#002)
@@ -22,6 +25,35 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [016](#016)
     - [017](#017)
     - [018](#018)
+    - [019 - for Apr01](#019---for-apr01)
+    - [020 - for Apr02](#020---for-apr02)
+
+## Calendar
+### March
+Sun | Mon | Tue | Wed | Thu | Fri | Sat
+-|-|-|-|-|-|-
+12|13|14|15|16|17|18
+-|-|annalyns-infiltration blackjack hello-world lasagna log-levels micro-blog reverse-string squeaky-clean two-fer|bird-watcher cars-assemble salary-calculator|elons-toy-car football-match-reports karls-languages need-for-speed|gigasecond hamming remote-control-competition wizards-and-warriors|difference-of-squares scrabble-score secret-handshake
+19|20|21|22|23|24|25
+matrix triangle|rotational-cipher|saddle-points|flatten-array|word-count|robot-name|binary-search
+26|27|28|29|30|31|-
+bank-account|linked-list|raindrops|isogram|pig-latin|anagram|-
+
+### April
+Sun | Mon | Tue | Wed | Thu | Fri | Sat
+-|-|-|-|-|-|-
+-|-|-|-|-|-|1
+-|-|-|-|-|-|darts
+2|3|4|5|6|7|8
+dnd-character|-|-|-|-|-|-
+9|10|11|12|13|14|15
+-|-|-|-|-|-|-
+16|17|18|19|20|21|22
+-|-|-|-|-|-|-
+23|24|25|26|27|28|29
+-|-|-|-|-|-|-
+30|-|-|-|-|-|-
+-|-|-|-|-|-|-
 
 ## Days
 ### 001
@@ -95,4 +127,10 @@ Get better at programming through fun, rewarding coding exercises that test your
 - [x] pig-latin
 
 ### 018
-- [ ] anagram
+- [x] anagram
+
+### 019 - for Apr01
+- [x] darts
+
+### 020 - for Apr02
+- [ ] dnd-character
