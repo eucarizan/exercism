@@ -26,6 +26,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [017](#017)
     - [018](#018)
     - [019](#019)
+    - [020](#020)
 
 ## Calendar
 ### March
@@ -44,7 +45,7 @@ Sun | Mon | Tue | Wed | Thu | Fri | Sat
 -|-|-|-|-|-|1
 -|-|-|-|-|-|darts
 2|3|4|5|6|7|8
--|-|-|-|-|-|-
+dnd-character|-|-|-|-|-|-
 9|10|11|12|13|14|15
 -|-|-|-|-|-|-
 16|17|18|19|20|21|22
@@ -131,24 +132,23 @@ Sun | Mon | Tue | Wed | Thu | Fri | Sat
 ### 019
 - [x] [darts](./darts/) - conditionals, constructors
 
-<!-- ### 020 -->
-<!-- for apr02 -->
-<!-- - [x] [dnd-character](./dnd-character/) - arrays, constructors -->
+### 020
+- [x] [dnd-character](./dnd-character/) - arrays, constructors
 
-<!-- ### 021 -->
 <!-- for apr03 -->
+<!-- ### 021 -->
 <!-- - [x] [grains](./grains/) - numbers -->
 
-<!-- ### 022 -->
 <!-- for apr04 -->
+<!-- ### 022 -->
 <!-- - [x] [resistor-color](./resistor-color/) - arrays -->
 
-<!-- ### 023 -->
 <!-- for apr05 -->
+<!-- ### 023 -->
 <!-- - [x] [resistor-color-duo](./resistor-color-duo/) - arrays -->
 
-<!-- ### 024 -->
 <!-- for apr06 -->
+<!-- ### 024 -->
 <!-- - [ ] [protein-translation](./protein-translation/) - arrays -->
 
 <!--
