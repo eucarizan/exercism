@@ -25,8 +25,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [016](#016)
     - [017](#017)
     - [018](#018)
-    - [019 - for Apr01](#019---for-apr01)
-    - [020 - for Apr02](#020---for-apr02)
+    - [019](#019)
 
 ## Calendar
 ### March
@@ -45,7 +44,7 @@ Sun | Mon | Tue | Wed | Thu | Fri | Sat
 -|-|-|-|-|-|1
 -|-|-|-|-|-|darts
 2|3|4|5|6|7|8
-dnd-character|-|-|-|-|-|-
+-|-|-|-|-|-|-
 9|10|11|12|13|14|15
 -|-|-|-|-|-|-
 16|17|18|19|20|21|22
@@ -57,80 +56,124 @@ dnd-character|-|-|-|-|-|-
 
 ## Days
 ### 001
-- [x] annalyns-infiltration
-- [x] blackjack
-- [x] hello-world
-- [x] lasagna
-- [x] log-levels
-- [x] micro-blog
-- [x] reverse-string
-- [x] squeaky-clean
-- [x] two-fer
+- [x] [annalyns-infiltration](./annalyns-infiltration/) - booleans
+- [x] [blackjack](./blackjack/) - conditionals (switch)
+- [x] [hello-world](./hello-world/) - basics
+- [x] [lasagna](./lasagna/) - basics
+- [x] [log-levels](./log-levels/) - strings
+- [x] [micro-blog](./micro-blog/) - strings (substrting, offsetbycodepoints)
+- [x] [reverse-string](./reverse-string/) - chars, strings (for loop)
+- [x] [squeaky-clean](./squeaky-clean/) - chars (isISOControl)
+- [x] [two-fer](./two-fer/) - conditionals, strings
 
 ### 002
-- [x] bird-watcher
-- [x] cars-assemble
-- [x] salary-calculator
+- [x] [bird-watcher](./bird-watcher/) - arrays, for-each loops, for loops
+- [x] [cars-assemble](./cars-assemble/) - numbers
+- [x] [salary-calculator](./salary-calculator/) - ternary operators
 
 ### 003
-- [x] elons-toy-car
-- [x] football-match-reports
-- [x] karls-languages
-- [x] need-for-speed
+- [x] [elons-toy-car](./elons-toy-car/) - classes
+- [x] [football-match-reports](./football-match-reports/) - switch statements
+- [x] [karls-languages](./karls-languages/) - lists, generic types
+- [x] [need-for-speed](./need-for-speed/) - constructors
 
 ### 004
-- [x] gigasecond
-- [x] hamming
-- [x] remote-control-competition
-- [x] wizards-and-warriors
+- [x] [gigasecond](./gigasecond/) - numbers (LocalDateTime, LocalDate)
+- [x] [hamming](./hamming/) - for loops
+- [x] [remote-control-competition](./remote-control-competition/) - interfaces
+- [x] [wizards-and-warriors](./wizards-and-warriors/) - inheritance
 
 ### 005
-- [x] difference-of-squares
-- [x] scrabble-score
-- [x] secret-handshake
+- [x] [difference-of-squares](./difference-of-squares/) - numbers (IntStream)
+- [x] [scrabble-score](./scrabble-score/) - arrays, chars, switch
+- [x] [secret-handshake](./secret-handshake/) - lists
 
 ### 006
-- [x] matrix
-- [x] triangle
+- [x] [matrix](./matrix/) - arrays, constructors
+- [x] [triangle](./triangle/) - constructors
 
 ### 007
-- [x] rotational-cipher
+- [x] [rotational-cipher](./rotational-cipher/) - chars
 
 ### 008
-- [x] saddle-points
+- [x] [saddle-points](./saddle-points/) - lists
 
 ### 009
-- [x] flatten-array
+- [x] [flatten-array](./flatten-array/) - lists
 
 ### 010
-- [x] word-count
+- [x] [word-count](./word-count/) - strings
 
 ### 011
-- [x] robot-name
+- [x] [robot-name](./robot-name/) - strings
 
 ### 012
-- [x] binary-search
+- [x] [binary-search](./binary-search/) - lists
 
 ### 013
-- [x] bank-account
+- [x] [bank-account](./bank-account/) - classes, constructors
 
 ### 014
-- [x] linked-list
+- [x] [linked-list](./linked-list/) - classes, generic types, lists
 
 ### 015
-- [x] raindrops
+- [x] [raindrops](./raindrops/) - conditionals, numbers, strings
 
 ### 016
-- [x] isogram
+- [x] [isogram](./isogram/) - conditionals, for loops, strings
 
 ### 017
-- [x] pig-latin
+- [x] [pig-latin](./pig-latin/) - arrays, lists, strings
 
 ### 018
-- [x] anagram
+- [x] [anagram](./anagram/) - arrays, conditionals if, for loops, lists
 
-### 019 - for Apr01
-- [x] darts
+### 019
+- [x] [darts](./darts/) - conditionals, constructors
 
-### 020 - for Apr02
-- [ ] dnd-character
+<!-- ### 020 -->
+<!-- for apr02 -->
+<!-- - [x] [dnd-character](./dnd-character/) - arrays, constructors -->
+
+<!-- ### 021 -->
+<!-- for apr03 -->
+<!-- - [x] [grains](./grains/) - numbers -->
+
+<!-- ### 022 -->
+<!-- for apr04 -->
+<!-- - [x] [resistor-color](./resistor-color/) - arrays -->
+
+<!-- ### 023 -->
+<!-- for apr05 -->
+<!-- - [x] [resistor-color-duo](./resistor-color-duo/) - arrays -->
+
+<!-- ### 024 -->
+<!-- for apr06 -->
+<!-- - [ ] [protein-translation](./protein-translation/) - arrays -->
+
+<!--
+[allergies](./allergies/) - lists
+[beer-song](./beer-song/) - strings
+[bob](./bob/) - confditionals if
+[bowling](./bowling/) - classes
+[connect](./connect/) - switch statements
+[diamond](./diamond/) - for loops, lists
+[food-chain](./food-chain/) - arrays
+[house](./house/) - for loops, strings
+[isbn-verifier](./isbn-verifier/) - strings
+[knapsack](./knapsack/) - arrays, lists
+[largest-series-product](./largest-series-product/) - strings
+[luhn](./luhn/) - strings
+[meetup](./meetup/) - for loops
+[minesweeper](./minesweeper/) - constructors, lists
+[nucleotide-count](./nucleotide-count/) - strings
+[phone-number](./phone-number/) - strings
+[proverb](./proverb/) - strings
+[roman-numerals](./roman-numerals/) - arrays
+[series](./series/) - for loops, lists
+[twelve-days](./twelve-days/) - strings
+[yacht](./yacht/) - arrays
+
+([\w+-?]+) -
+[$1](./$1/)
+ -->
