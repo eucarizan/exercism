@@ -31,3 +31,28 @@ class Darts {
     }
 }
  */
+
+/*
+import java.util.function.DoublePredicate;
+
+class Darts {
+
+    private static final double innerRing = 1.0;
+    private static final double middleRing = 5.0;
+    private static final double outerRing = 10.0;
+
+    int score(double x, double y) {
+        var pointRadius = (Math.sqrt((x * x) + (y * y)));
+        DoublePredicate thrownOutside = ring -> pointRadius > ring;
+
+        if (thrownOutside.test(outerRing))
+            return 0;
+        if (thrownOutside.test(middleRing))
+            return 1;
+        if (thrownOutside.test(innerRing))
+            return 5;
+        return 10;
+    }
+}
+
+*/

@@ -27,6 +27,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [018](#018)
     - [019](#019)
     - [020](#020)
+    - [021](#021)
 
 ## Calendar
 ### March
@@ -135,9 +136,8 @@ dnd-character|-|-|-|-|-|-
 ### 020
 - [x] [dnd-character](./dnd-character/) - arrays, constructors
 
-<!-- for apr03 -->
-<!-- ### 021 -->
-<!-- - [x] [grains](./grains/) - numbers -->
+### 021
+- [x] [grains](./grains/) - numbers
 
 <!-- for apr04 -->
 <!-- ### 022 -->
