@@ -28,6 +28,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [019](#019)
     - [020](#020)
     - [021](#021)
+    - [022](#022)
 
 ## Calendar
 ### March
@@ -46,7 +47,7 @@ Sun | Mon | Tue | Wed | Thu | Fri | Sat
 -|-|-|-|-|-|1
 -|-|-|-|-|-|darts
 2|3|4|5|6|7|8
-dnd-character|-|-|-|-|-|-
+dnd-character|grains|resistor-color|-|-|-|-
 9|10|11|12|13|14|15
 -|-|-|-|-|-|-
 16|17|18|19|20|21|22
@@ -139,9 +140,8 @@ dnd-character|-|-|-|-|-|-
 ### 021
 - [x] [grains](./grains/) - numbers
 
-<!-- for apr04 -->
-<!-- ### 022 -->
-<!-- - [x] [resistor-color](./resistor-color/) - arrays -->
+### 022
+- [x] [resistor-color](./resistor-color/) - arrays
 
 <!-- for apr05 -->
 <!-- ### 023 -->
