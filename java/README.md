@@ -29,6 +29,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [020](#020)
     - [021](#021)
     - [022](#022)
+    - [023](#023)
 
 ## Calendar
 ### March
@@ -143,9 +144,8 @@ dnd-character|grains|resistor-color|-|-|-|-
 ### 022
 - [x] [resistor-color](./resistor-color/) - arrays
 
-<!-- for apr05 -->
-<!-- ### 023 -->
-<!-- - [x] [resistor-color-duo](./resistor-color-duo/) - arrays -->
+### 023
+- [x] [resistor-color-duo](./resistor-color-duo/) - arrays
 
 <!-- for apr06 -->
 <!-- ### 024 -->
