@@ -30,6 +30,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [021](#021)
     - [022](#022)
     - [023](#023)
+    - [024](#024)
 
 ## Calendar
 ### March
@@ -61,13 +62,17 @@ dnd-character|grains|resistor-color|-|-|-|-
 ## Days
 ### 001
 - [x] [annalyns-infiltration](./annalyns-infiltration/) - booleans
-- [x] [blackjack](./blackjack/) - conditionals (switch)
+- [x] [blackjack](./blackjack/) - conditionals
+  - switch
 - [x] [hello-world](./hello-world/) - basics
 - [x] [lasagna](./lasagna/) - basics
 - [x] [log-levels](./log-levels/) - strings
-- [x] [micro-blog](./micro-blog/) - strings (substrting, offsetbycodepoints)
-- [x] [reverse-string](./reverse-string/) - chars, strings (for loop)
-- [x] [squeaky-clean](./squeaky-clean/) - chars (isISOControl)
+- [x] [micro-blog](./micro-blog/) - strings
+  - substrting, offsetbycodepoints
+- [x] [reverse-string](./reverse-string/) - chars, strings
+  - for loop
+- [x] [squeaky-clean](./squeaky-clean/) - chars
+  - isISOControl
 - [x] [two-fer](./two-fer/) - conditionals, strings
 
 ### 002
@@ -82,15 +87,20 @@ dnd-character|grains|resistor-color|-|-|-|-
 - [x] [need-for-speed](./need-for-speed/) - constructors
 
 ### 004
-- [x] [gigasecond](./gigasecond/) - numbers (LocalDateTime, LocalDate)
+- [x] [gigasecond](./gigasecond/) - numbers
+  - LocalDateTime, LocalDate
 - [x] [hamming](./hamming/) - for loops
+  - Streams, filter() count() || map() sum() || reduce()
 - [x] [remote-control-competition](./remote-control-competition/) - interfaces
 - [x] [wizards-and-warriors](./wizards-and-warriors/) - inheritance
 
 ### 005
-- [x] [difference-of-squares](./difference-of-squares/) - numbers (IntStream)
+- [x] [difference-of-squares](./difference-of-squares/) - numbers
+  - IntStream
 - [x] [scrabble-score](./scrabble-score/) - arrays, chars, switch
+  - Streams reduce(), Functional Switch
 - [x] [secret-handshake](./secret-handshake/) - lists
+  - bitwise AND
 
 ### 006
 - [x] [matrix](./matrix/) - arrays, constructors
@@ -107,6 +117,7 @@ dnd-character|grains|resistor-color|-|-|-|-
 
 ### 010
 - [x] [word-count](./word-count/) - strings
+  - Arrays.stream, map(), collect()
 
 ### 011
 - [x] [robot-name](./robot-name/) - strings
@@ -116,18 +127,22 @@ dnd-character|grains|resistor-color|-|-|-|-
 
 ### 013
 - [x] [bank-account](./bank-account/) - classes, constructors
+  - Concurrency (synchronized)
 
 ### 014
 - [x] [linked-list](./linked-list/) - classes, generic types, lists
 
 ### 015
 - [x] [raindrops](./raindrops/) - conditionals, numbers, strings
+  - TreeMap<Integer, String>(Map.of(3, "Pling", 5, "Plang", 7, "Plong"))
 
 ### 016
 - [x] [isogram](./isogram/) - conditionals, for loops, strings
+  - String replaceAll(), String chars().distinct().count()
 
 ### 017
 - [x] [pig-latin](./pig-latin/) - arrays, lists, strings
+  - HashSet(Arrays.asList)
 
 ### 018
 - [x] [anagram](./anagram/) - arrays, conditionals if, for loops, lists
@@ -137,19 +152,22 @@ dnd-character|grains|resistor-color|-|-|-|-
 
 ### 020
 - [x] [dnd-character](./dnd-character/) - arrays, constructors
+  - Streams, Math.floorDiv
 
 ### 021
 - [x] [grains](./grains/) - numbers
+  - BigInteger
 
 ### 022
 - [x] [resistor-color](./resistor-color/) - arrays
 
 ### 023
 - [x] [resistor-color-duo](./resistor-color-duo/) - arrays
+  - HashMap
 
-<!-- for apr06 -->
-<!-- ### 024 -->
-<!-- - [ ] [protein-translation](./protein-translation/) - arrays -->
+### 024
+- [x] [protein-translation](./protein-translation/) - arrays
+  - Split string by 3 chars - String split("(?<=\\G...)"), Streams takeWhile(), Functional Switch
 
 <!--
 [allergies](./allergies/) - lists

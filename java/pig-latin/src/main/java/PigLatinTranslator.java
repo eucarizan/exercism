@@ -34,65 +34,65 @@ public class PigLatinTranslator {
 }
 
 // public class PigLatinTranslator {
-// public String translate(String str) {
-// String[] words = str.split(" ");
+//     public String translate(String str) {
+//         String[] words = str.split(" ");
 
-// StringBuilder out = new StringBuilder();
+//         StringBuilder out = new StringBuilder();
 
-// for (String word : words) {
-// out.append(byWord(word)).append(" ");
-// }
+//         for (String word : words) {
+//             out.append(byWord(word)).append(" ");
+//         }
 
-// return out.toString().trim();
-// }
+//         return out.toString().trim();
+//     }
 
-// private String byWord(String str) {
-// char ch = str.charAt(0);
+//     private String byWord(String str) {
+//         char ch = str.charAt(0);
 
-// StringBuilder out = new StringBuilder();
+//         StringBuilder out = new StringBuilder();
 
-// if (str.equals("my")) {
-// return "ymay";
-// }
+//         if (str.equals("my")) {
+//             return "ymay";
+//         }
 
-// if (isVowel(ch)) {
-// out.append(str);
-// } else {
-// String cons = "";
-// int idx = 0;
+//         if (isVowel(ch)) {
+//             out.append(str);
+//         } else {
+//             String cons = "";
+//             int idx = 0;
 
-// while(!isVowel(ch) && idx<str.length()) {
-// cons+=ch;
+//             while (!isVowel(ch) && idx < str.length()) {
+//                 cons += ch;
 
-// if (ch == 'q' && str.charAt(idx+1)== 'u') {
-// idx+=2;
-// cons+='u';
-// break;
-// } else if (ch == 'y' && !isVowel(str.charAt(idx+1))) {
-// if (!cons.equals("rhy")) {
-// cons="";
-// } else {
-// cons="rh";
-// }
-// break;
-// } else if (ch == 'x' && idx==0 && !isVowel(str.charAt(idx+1))) {
-// cons="";
-// break;
-// }
+//                 if (ch == 'q' && str.charAt(idx + 1) == 'u') {
+//                     idx += 2;
+//                     cons += 'u';
+//                     break;
+//                 } else if (ch == 'y' && !isVowel(str.charAt(idx + 1))) {
+//                     if (!cons.equals("rhy")) {
+//                         cons = "";
+//                     } else {
+//                         cons = "rh";
+//                     }
+//                     break;
+//                 } else if (ch == 'x' && idx == 0 && !isVowel(str.charAt(idx + 1))) {
+//                     cons = "";
+//                     break;
+//                 }
 
-// idx++;
-// ch = str.charAt(idx);
-// }
+//                 idx++;
+//                 ch = str.charAt(idx);
+//             }
 
-// String subs = str.substring(idx); // debugging
-// out.append(subs).append(cons);
-// }
+//             String subs = str.substring(idx); // debugging
+//             out.append(subs).append(cons);
+//         }
 
-// String output = out.append("ay").toString(); // debugging
-// return output;
-// }
+//         String output = out.append("ay").toString(); // debugging
+//         return output;
+//     }
 
-// private boolean isVowel(char ch) {
-// return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
-// }
+//     private boolean isVowel(char ch) {
+//         return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
+//     }
 // }
