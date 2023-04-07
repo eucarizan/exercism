@@ -31,6 +31,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [022](#022)
     - [023](#023)
     - [024](#024)
+    - [025](#025)
 
 ## Calendar
 ### March
@@ -169,13 +170,16 @@ dnd-character|grains|resistor-color|-|-|-|-
 - [x] [protein-translation](./protein-translation/) - arrays
   - Split string by 3 chars - String split("(?<=\\G...)"), Streams takeWhile(), Functional Switch
 
+### 025
+- [x] [diamond](./diamond/) - for loops, lists
+
+
 <!--
-[allergies](./allergies/) - lists
+- [ ] [allergies](./allergies/) - lists
 [beer-song](./beer-song/) - strings
 [bob](./bob/) - confditionals if
 [bowling](./bowling/) - classes
 [connect](./connect/) - switch statements
-[diamond](./diamond/) - for loops, lists
 [food-chain](./food-chain/) - arrays
 [house](./house/) - for loops, strings
 [isbn-verifier](./isbn-verifier/) - strings
