@@ -32,6 +32,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [023](#023)
     - [024](#024)
     - [025](#025)
+    - [026](#026)
 
 ## Calendar
 ### March
@@ -173,6 +174,9 @@ dnd-character|grains|resistor-color|-|-|-|-
 ### 025
 - [x] [diamond](./diamond/) - for loops, lists
 
+### 026
+- [x] [proverb](./proverb/) - strings
+
 
 <!--
 - [ ] [allergies](./allergies/) - lists
@@ -190,7 +194,6 @@ dnd-character|grains|resistor-color|-|-|-|-
 [minesweeper](./minesweeper/) - constructors, lists
 [nucleotide-count](./nucleotide-count/) - strings
 [phone-number](./phone-number/) - strings
-[proverb](./proverb/) - strings
 [roman-numerals](./roman-numerals/) - arrays
 [series](./series/) - for loops, lists
 [twelve-days](./twelve-days/) - strings
