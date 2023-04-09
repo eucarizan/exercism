@@ -33,6 +33,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [024](#024)
     - [025](#025)
     - [026](#026)
+    - [027](#027)
 
 ## Calendar
 ### March
@@ -51,9 +52,9 @@ Sun | Mon | Tue | Wed | Thu | Fri | Sat
 -|-|-|-|-|-|1
 -|-|-|-|-|-|darts
 2|3|4|5|6|7|8
-dnd-character|grains|resistor-color|-|-|-|-
+dnd-character|grains|resistor-color|resistor-color-duo|protein-translation|diamond|proverb
 9|10|11|12|13|14|15
--|-|-|-|-|-|-
+twelve-days|-|-|-|-|-|-
 16|17|18|19|20|21|22
 -|-|-|-|-|-|-
 23|24|25|26|27|28|29
@@ -177,6 +178,8 @@ dnd-character|grains|resistor-color|-|-|-|-
 ### 026
 - [x] [proverb](./proverb/) - strings
 
+### 027
+- [x] [twelve-days](./twelve-days/) - strings
 
 <!--
 - [ ] [allergies](./allergies/) - lists
@@ -196,7 +199,6 @@ dnd-character|grains|resistor-color|-|-|-|-
 [phone-number](./phone-number/) - strings
 [roman-numerals](./roman-numerals/) - arrays
 [series](./series/) - for loops, lists
-[twelve-days](./twelve-days/) - strings
 [yacht](./yacht/) - arrays
 
 ([\w+-?]+) -
