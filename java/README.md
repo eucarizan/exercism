@@ -34,6 +34,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [025](#025)
     - [026](#026)
     - [027](#027)
+    - [028](#028)
 
 ## Calendar
 ### March
@@ -181,10 +182,13 @@ twelve-days|-|-|-|-|-|-
 ### 027
 - [x] [twelve-days](./twelve-days/) - strings
 
+### 028
+- [x] [bob](./bob/) - confditionals if
+
+
 <!--
-- [ ] [allergies](./allergies/) - lists
 [beer-song](./beer-song/) - strings
-[bob](./bob/) - confditionals if
+- [ ] [allergies](./allergies/) - lists
 [bowling](./bowling/) - classes
 [connect](./connect/) - switch statements
 [food-chain](./food-chain/) - arrays
