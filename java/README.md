@@ -35,6 +35,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [026](#026)
     - [027](#027)
     - [028](#028)
+    - [029](#029)
 
 ## Calendar
 ### March
@@ -55,7 +56,7 @@ Sun | Mon | Tue | Wed | Thu | Fri | Sat
 2|3|4|5|6|7|8
 dnd-character|grains|resistor-color|resistor-color-duo|protein-translation|diamond|proverb
 9|10|11|12|13|14|15
-twelve-days|-|-|-|-|-|-
+twelve-days|bob|beer-song|-|-|-|-
 16|17|18|19|20|21|22
 -|-|-|-|-|-|-
 23|24|25|26|27|28|29
@@ -185,9 +186,11 @@ twelve-days|-|-|-|-|-|-
 ### 028
 - [x] [bob](./bob/) - confditionals if
 
+### 029
+- [x] [beer-song](./beer-song/) - strings
+
 
 <!--
-[beer-song](./beer-song/) - strings
 - [ ] [allergies](./allergies/) - lists
 [bowling](./bowling/) - classes
 [connect](./connect/) - switch statements
