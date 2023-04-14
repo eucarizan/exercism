@@ -37,6 +37,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [028](#028)
     - [029](#029)
     - [030](#030)
+    - [031](#031)
 
 ## Calendar
 ### March
@@ -57,7 +58,7 @@ Sun | Mon | Tue | Wed | Thu | Fri | Sat
 2|3|4|5|6|7|8
 dnd-character|grains|resistor-color|resistor-color-duo|protein-translation|diamond|proverb
 9|10|11|12|13|14|15
-twelve-days|-|bob|beer-song|food-chain|-|-
+twelve-days|-|bob|beer-song|food-chain|house|-
 16|17|18|19|20|21|22
 -|-|-|-|-|-|-
 23|24|25|26|27|28|29
@@ -196,23 +197,26 @@ twelve-days|-|bob|beer-song|food-chain|-|-
 ### 030
 - [x] [food-chain](./food-chain/) - arrays
 
+### 031
+- [x] [house](./house/) - for loops, strings
+
 
 <!--
+- [x] [isbn-verifier](./isbn-verifier/) - strings
+- [ ] [largest-series-product](./largest-series-product/) - strings
+- [ ] [luhn](./luhn/) - strings
+- [ ] [knapsack](./knapsack/) - arrays, lists
+- [ ] [nucleotide-count](./nucleotide-count/) - strings
+- [ ] [phone-number](./phone-number/) - strings
+- [ ] [series](./series/) - for loops, lists
+- [ ] [roman-numerals](./roman-numerals/) - arrays
 - [ ] [allergies](./allergies/) - lists
-[bowling](./bowling/) - classes
-[connect](./connect/) - switch statements
-[house](./house/) - for loops, strings
-[isbn-verifier](./isbn-verifier/) - strings
-[knapsack](./knapsack/) - arrays, lists
-[largest-series-product](./largest-series-product/) - strings
-[luhn](./luhn/) - strings
-[meetup](./meetup/) - for loops
-[minesweeper](./minesweeper/) - constructors, lists
-[nucleotide-count](./nucleotide-count/) - strings
-[phone-number](./phone-number/) - strings
-[roman-numerals](./roman-numerals/) - arrays
-[series](./series/) - for loops, lists
-[yacht](./yacht/) - arrays
+- [ ] [meetup](./meetup/) - for loops
+- [ ] [yacht](./yacht/) - arrays
+- [ ] [bowling](./bowling/) - classes
+- [ ] [minesweeper](./minesweeper/) - constructors, lists
+
+- [ ] [connect](./connect/) - switch statements
 
 ([\w+-?]+) -
 [$1](./$1/)
