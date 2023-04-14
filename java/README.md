@@ -38,6 +38,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [029](#029)
     - [030](#030)
     - [031](#031)
+    - [032](#032)
 
 ## Calendar
 ### March
@@ -58,7 +59,7 @@ Sun | Mon | Tue | Wed | Thu | Fri | Sat
 2|3|4|5|6|7|8
 dnd-character|grains|resistor-color|resistor-color-duo|protein-translation|diamond|proverb
 9|10|11|12|13|14|15
-twelve-days|-|bob|beer-song|food-chain|house|-
+twelve-days|-|bob|beer-song|food-chain|house|isbn-identifier
 16|17|18|19|20|21|22
 -|-|-|-|-|-|-
 23|24|25|26|27|28|29
@@ -199,10 +200,12 @@ twelve-days|-|bob|beer-song|food-chain|house|-
 
 ### 031
 - [x] [house](./house/) - for loops, strings
+  - map()
 
-
-<!--
+### 032
 - [x] [isbn-verifier](./isbn-verifier/) - strings
+  - map() with sum()
+<!--
 - [ ] [largest-series-product](./largest-series-product/) - strings
 - [ ] [luhn](./luhn/) - strings
 - [ ] [knapsack](./knapsack/) - arrays, lists
