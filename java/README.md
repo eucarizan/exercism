@@ -39,6 +39,7 @@ Get better at programming through fun, rewarding coding exercises that test your
     - [030](#030)
     - [031](#031)
     - [032](#032)
+    - [033](#033)
 
 ## Calendar
 ### March
@@ -61,7 +62,7 @@ dnd-character|grains|resistor-color|resistor-color-duo|protein-translation|diamo
 9|10|11|12|13|14|15
 twelve-days|-|bob|beer-song|food-chain|house|isbn-identifier
 16|17|18|19|20|21|22
--|-|-|-|-|-|-
+largest-series-product|-|-|-|-|-|-
 23|24|25|26|27|28|29
 -|-|-|-|-|-|-
 30|-|-|-|-|-|-
@@ -205,8 +206,13 @@ twelve-days|-|bob|beer-song|food-chain|house|isbn-identifier
 ### 032
 - [x] [isbn-verifier](./isbn-verifier/) - strings
   - map() with sum()
+
+### 033
+- [x] [largest-series-product](./largest-series-product/) - strings
+  - Long.valueOf(Character.getNumericValue(num.charAt(i))), sliding window, o(n^2)
+
+
 <!--
-- [ ] [largest-series-product](./largest-series-product/) - strings
 - [ ] [luhn](./luhn/) - strings
 - [ ] [knapsack](./knapsack/) - arrays, lists
 - [ ] [nucleotide-count](./nucleotide-count/) - strings
